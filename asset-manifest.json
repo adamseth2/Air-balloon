@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.b4412bd6.js",
-    "index.html": "/index.html",
-    "main.b4412bd6.js.map": "/static/js/main.b4412bd6.js.map"
+    "main.js": "/air-balloon/static/js/main.b4412bd6.js",
+    "index.html": "/air-balloon/index.html",
+    "main.b4412bd6.js.map": "/air-balloon/static/js/main.b4412bd6.js.map"
   },
   "entrypoints": [
     "static/js/main.b4412bd6.js"
